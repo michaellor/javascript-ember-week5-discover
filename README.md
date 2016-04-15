@@ -1,7 +1,7 @@
 # Discovr
+by Eddie Duro & Michael Lor
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Discovr is an image sharing website that allows users to register accounts and upload image files to share. Images are displayed in a tile and can be retrieved with a search form based on a tag property. Images can be liked and downloaded by the user.
 
 ## Prerequisites
 
@@ -41,9 +41,18 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+### Techonologies Used
 
-Specify what it takes to deploy your app.
+* Javascript
+* EmberJS
+* Git / Github
+* Firebase
+* Ember-Cli
+* Bootstrap
+* jQuery
+* Atom
+* Bower
+* NodeJS
 
 ## Further Reading / Useful Links
 
